@@ -36,3 +36,8 @@ Default server runs on http://localhost:5173
 
 ### Notifications
 - Powered by **react-toastify**  
+
+### Internationalization (i18n)
+- Language auto-detected from `navigator.language`  
+- Supported: **English** + **French**  
+- Messages stored in `src/i18n/messages.js`  
